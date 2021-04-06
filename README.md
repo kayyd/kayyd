@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kayyd
+- 👋 Hi, I’m Kayla
 - 👀 I’m interested in creating and building!
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on projects in the future
