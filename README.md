@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kayla
 - 👀 I’m interested in creating and building!
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on projects in the future
 - 📫 How to reach me: on Twitter @codedbykayla
 
